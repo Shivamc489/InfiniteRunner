@@ -2,8 +2,8 @@
 This is a prototype of an endless runner game. Here the idea is that our player (named Balloon Pinner here) has a neddle mounted on it face which can be used to burst the balloons. 
 
 ## Screenshots
-<img src="./ScreenShots/Screenshot1.PNG"/>
-<img src="./ScreenShots/Screenshot2.PNG"/>
+<img src="./ScreenShots/Screenshot1.png"/>
+<img src="./ScreenShots/Screenshot2.png"/>
 
 ## Controls
 - Up Arrow to jump
