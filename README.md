@@ -4,6 +4,7 @@ This is a prototype of an endless runner game. Here the idea is that our player 
 ## Screenshots
 <img src="./ScreenShots/Screenshot1.PNG"/>
 <img src="./ScreenShots/Screenshot2.PNG"/>
+
 ## Controls
 - Up Arrow to jump
 - Right Arrow to move right
